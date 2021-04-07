@@ -1,3 +1,3 @@
-print('this was made by RStudio ubder merging studying 1') 
+print('this was made by RStudio ubder merging studying 2') 
 
 
